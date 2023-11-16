@@ -8,7 +8,7 @@ import com.invoice.app.ui.AppScreen
 import com.invoice.app.ui.auth.home.customers.Customers
 import com.invoice.app.ui.auth.home.customers.CustomersViewModel
 import com.invoice.app.ui.auth.home.customers.ManageCustomer
-import com.example.invoiceapp.ui.utils.getViewModelInstance
+import com.invoice.app.ui.utils.getViewModelInstance
 
 fun NavGraphBuilder.customersNav(navController: NavController) {
     navigation(

@@ -8,7 +8,7 @@ import com.invoice.app.ui.AppScreen
 import com.invoice.app.ui.auth.home.taxes.ManageTaxes
 import com.invoice.app.ui.auth.home.taxes.Taxes
 import com.invoice.app.ui.auth.home.taxes.TaxesViewModel
-import com.example.invoiceapp.ui.utils.getViewModelInstance
+import com.invoice.app.ui.utils.getViewModelInstance
 
 fun NavGraphBuilder.taxNav(navController: NavController) {
     navigation(

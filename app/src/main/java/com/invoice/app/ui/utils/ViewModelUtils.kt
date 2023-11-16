@@ -1,4 +1,4 @@
-package com.example.invoiceapp.ui.utils
+package com.invoice.app.ui.utils
 
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.remember

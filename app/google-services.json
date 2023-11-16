@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "530839818913",
+    "firebase_url": "https://mobile-app-5edc5-default-rtdb.firebaseio.com",
+    "project_id": "mobile-app-5edc5",
+    "storage_bucket": "mobile-app-5edc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530839818913:android:acbf8a898a7b466d6896e0",
+        "android_client_info": {
+          "package_name": "com.invoice.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd4zc1PPkH7cPsAMfXmgJ91S0c89hanaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

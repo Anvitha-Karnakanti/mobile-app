@@ -6,7 +6,7 @@ import androidx.navigation.compose.composable
 import androidx.navigation.navigation
 import com.invoice.app.ui.AppScreen
 import com.invoice.app.ui.auth.home.invoices.detail.InvoiceDetail
-import com.example.invoiceapp.ui.utils.getViewModelInstance
+import com.invoice.app.ui.utils.getViewModelInstance
 import com.invoice.app.ui.auth.home.invoices.InvoicesScreen
 import com.invoice.app.ui.auth.home.invoices.InvoicesViewModel
 import com.invoice.app.ui.auth.home.invoices.manage.AddInvoiceItem
